@@ -12,3 +12,8 @@ body{
 .bg-working{
     background-color:  #F4FAFD;;
 }
+/* company area */
+.company{
+    height: 25px;
+    width: 178px;
+}
